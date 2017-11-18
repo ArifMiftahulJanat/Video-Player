@@ -1,0 +1,14 @@
+c:\users\arifm\documents\visual studio 2015\Projects\Video Player\Video Player\bin\Debug\Video Player.exe.config
+c:\users\arifm\documents\visual studio 2015\Projects\Video Player\Video Player\bin\Debug\Video Player.exe
+c:\users\arifm\documents\visual studio 2015\Projects\Video Player\Video Player\bin\Debug\Video Player.pdb
+c:\users\arifm\documents\visual studio 2015\Projects\Video Player\Video Player\bin\Debug\Interop.WMPLib.dll
+c:\users\arifm\documents\visual studio 2015\Projects\Video Player\Video Player\bin\Debug\AxInterop.WMPLib.dll
+c:\users\arifm\documents\visual studio 2015\Projects\Video Player\Video Player\obj\Debug\Video Player.csprojResolveAssemblyReference.cache
+c:\users\arifm\documents\visual studio 2015\Projects\Video Player\Video Player\obj\Debug\Interop.WMPLib.dll
+c:\users\arifm\documents\visual studio 2015\Projects\Video Player\Video Player\obj\Debug\AxInterop.WMPLib.dll
+c:\users\arifm\documents\visual studio 2015\Projects\Video Player\Video Player\obj\Debug\Video Player.csproj.ResolveComReference.cache
+c:\users\arifm\documents\visual studio 2015\Projects\Video Player\Video Player\obj\Debug\Video_Player.Form1.resources
+c:\users\arifm\documents\visual studio 2015\Projects\Video Player\Video Player\obj\Debug\Video_Player.Properties.Resources.resources
+c:\users\arifm\documents\visual studio 2015\Projects\Video Player\Video Player\obj\Debug\Video Player.csproj.GenerateResource.Cache
+c:\users\arifm\documents\visual studio 2015\Projects\Video Player\Video Player\obj\Debug\Video Player.exe
+c:\users\arifm\documents\visual studio 2015\Projects\Video Player\Video Player\obj\Debug\Video Player.pdb
